@@ -11,7 +11,9 @@ This example application was written using the ExtJS 4.2.1 framework, and was in
 **NOTICE** - this application must be run from a server. If it is run directly from filesystem, it will not work.
 
 ![Main account settings](http://s6.postimg.org/7o3afduw1/Risk_Ident1.png)
+
 **Screenshot 1**: Window for managing the main account details. Notice the color picker dropdown, and the invalid field for repeating the password. The save button is disabled until the password matches in both fields
 
 ![Main account settings](http://s6.postimg.org/nnlxyxqxt/Risk_Ident2.png)
+
 **Screenshot 2**: Grid for managing the the licenses bound to the account. Notice the max, used and available licenses count in the toolbar. The toggle license button is disabled if the user tries to enable a license that exceeds the license quota.
