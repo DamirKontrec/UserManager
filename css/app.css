@@ -1,0 +1,15 @@
+.tool-icon {
+	width: 16px;
+	height: 16px;
+	overflow: hidden;
+	background: transparent url(../images/icons.png) no-repeat;
+}
+
+.tool-icon.delete			{ background-position: -000px -000px !important; }
+.tool-icon.no				{ background-position: -016px -000px !important; }
+.tool-icon.yes				{ background-position: -032px -000px !important; }
+.tool-icon.add				{ background-position: -048px -000px !important; }
+
+.tool-icon.settings			{ background-position: -000px -016px !important; }
+.tool-icon.edit-profile		{ background-position: -016px -016px !important; }
+.tool-icon.manage-users		{ background-position: -032px -016px !important; }

@@ -1,0 +1,42 @@
+{
+    "total": 5,
+    "success": true,
+    "message": "",
+    
+    "results": [{
+        "id": 5,
+        "firstname": "Felix",
+        "lastname": "Eckhardt",
+        "email" : "felix@riskident.com",
+        "color": "red",
+        "disabled": false
+    }, {
+        "id": 9,
+        "firstname": "John",
+        "lastname": "Doe",
+        "email" : "john@riskident.com",
+        "color": "blue",
+        "disabled": false
+    }, {
+        "id": 8,
+        "firstname": "Christina",
+        "lastname": "Marta",
+        "email" : "christina@riskident.com",
+        "color": "#fff",
+        "disabled": false
+    }, {
+        "id": 4,
+        "firstname": "Till",
+        "lastname": "Tenner",
+        "email" : "till@riskident.com",
+        "color": "#e00",
+        "disabled": true
+    }, {
+        "id": 10,
+        "firstname": "Richard",
+        "lastname": "Wagner",
+        "email" : "richard@riskident.com",
+        "color": "#000",
+        "disabled": false
+    }]
+}
